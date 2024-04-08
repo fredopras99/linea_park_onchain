@@ -5,7 +5,7 @@
 
 ## Установка скрипта
 
-### Олдскул
+### Ubuntu
 1. `git clone https://github.com/Reilighost/linea_park_onchain`
 2. `cd linea_park_onchain`
 3. `pip install -r requirements.txt`
